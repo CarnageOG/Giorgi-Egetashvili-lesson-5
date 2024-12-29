@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header img{
+	width: 122px;
+	height: 95px;
+	padding-top: 52px;
+	display: inline-block;
+}
+nav{
+	display: inline-block;
+}
+nav a{
+	font-size: 20px;
+	color: #707070;
+	text-decoration: none;
+	letter-spacing: 0.2px;
+	display: inline-block;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+}
+.introduction-img{
+	max-width: 1640px;
+	height: 613px;
+	width: 100%;
+	margin-top: 107px;
+	margin-bottom: 138px;
+}
+h2{
+	font-size: 40px;
+	color: #707070;
+	letter-spacing: 0.4px;
+	padding-bottom: 70px;
+}
+h3{
+	font-size: 30px;
+	color: #707070;
+	letter-spacing: 0.3px;
+	padding-top:20px;
+	padding-bottom:33px;
+	padding-left:13px;
+}
+section p{
+	font-size: 18px;
+	color: #707070;
+	padding-left: 12px;
+	padding-bottom: 73px;
+}
+article a{
+	font-size: 24px;
+	color: #707070;
+	text-decoration: none;
+	display: block;
+	padding-top: 73px;
+	padding-bottom: 35px;
+	padding-left: 414px;
+}
+.div-loadmore{
+	font-size: 30px;
+	color: #707070;
+	text-decoration: underline;
+	letter-spacing: 0.3px;
+	margin-top: 56px;
+	margin-bottom: 53px;
+	display: block;
+}
+article img{
+	width: 483px;
+	height: 282px;
+	object-fit: cover;
+}
+footer img{
+	width: 122px;
+	height: 95px;
+	object-fit: cover;
+	padding-top: 56px;
+}
+footer{
+	background-color: #2E2E2E;
+}
+footer h4{
+	font-size: 20px;
+	color: #F2F2F2;
+	letter-spacing: 0.2px;
+	padding-top: 43.9px;
+}
+.h4-font-size{
+	font-size: 19px;
+}
+footer p{
+	font-size: 13px;
+	color: #F2F2F2;
+	letter-spacing: 0.13px;
+}
+.facebook-img{
+	width: 44px;
+	height: 44px;
+	object-fit: cover;
+	padding: 43.95px;
+}
+.instagram-img{
+	width: 44px;
+	height: 44px;
+	object-fit: cover;
+	padding: 43.95px;
+}
+.article-img{
+	padding-top: 108.5px;
+}
+.spaced-section {
+    margin-top: 40px;
+}
+.footer-logo{
+	display: inline-block;
+	padding-bottom: 54.96px;
+
+}
+.div-address{
+	display: inline-block;
+	padding-bottom: 96px;	
+}
+.div-contact{
+	display: inline-block;
+	padding-bottom: 78px;
+}
+.div-social{
+	display: inline-block;
+	padding-bottom: 81px;
+}
