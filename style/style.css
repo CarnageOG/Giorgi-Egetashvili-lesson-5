@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'ArchyEDT-Bold';
+    src: url('../fonts/archyedt-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/archyedt-bold-webfont.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/archyedt-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/archyedt-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/archyedt-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/archyedt-bold-webfont.svg') format('svg'); /* Legacy iOS */
+}
 *{
 	margin: 0;
 	padding: 0;
@@ -129,4 +138,7 @@ footer p{
 .div-social{
 	display: inline-block;
 	padding-bottom: 81px;
+}
+body{
+	font-family: 'ArchyEDT-Bold';
 }
